@@ -1,2 +1,2 @@
-# pykamus
+# PyKamus
 Simple English &lt;-> Indonesian Dictionary
